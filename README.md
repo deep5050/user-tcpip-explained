@@ -1,6 +1,8 @@
-# Level-IP [![Build Status](https://travis-ci.org/saminiir/level-ip.svg?branch=master)](https://travis-ci.org/saminiir/level-ip)
+# user-tcpip-explained (mytcpip)
 
-Level-IP is a Linux userspace TCP/IP stack, implemented with TUN/TAP devices.
+A fork of [level-ip](https://github.com/saminiir/level-ip)
+
+`mytcpip` is a Linux userspace TCP/IP stack, implemented with TUN/TAP devices.
 
 The main goals are to:
 * Learn TCP/IP
